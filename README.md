@@ -51,4 +51,5 @@ This Python script is designed to:
 ### 1️⃣ Clone the repository:
 ```bash
 git clone https://github.com/your-username/multi-threaded-quotes-scraper.git
+
 cd multi-threaded-quotes-scraper
