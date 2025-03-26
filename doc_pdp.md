@@ -201,4 +201,3 @@ export_data()
 
 ---
 
-> ✅ Documentation generated for the Quotes Scraper Script.
